@@ -1,0 +1,18 @@
+#Lab Assignment 2   
+
+    1. Take 5 images of diff dimensions 
+    2. Scale into common size
+    3. Extract Boundary features and store into matrix
+    4. Extract any one region feature and store into matrix
+    5. keep all derived matrix as output
+
+
+https://picsum.photos/
+
+https://cloudinary.com/guides/bulk-image-resize/python-image-resize-with-pillow-and-opencv
+
+https://www.geeksforgeeks.org/image-feature-extraction-using-python/
+https://www.geeksforgeeks.org/python-edge-detection-using-pillow/
+https://www.geeksforgeeks.org/region-and-edge-based-segmentaion/
+https://www.geeksforgeeks.org/python-pil-image-show-method/
+https://www.geeksforgeeks.org/python-edge-detection-using-pillow/
