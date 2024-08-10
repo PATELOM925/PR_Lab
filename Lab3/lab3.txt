@@ -1,0 +1,17 @@
+Q1. This problem emphasizes on Data Scaling, Binarization and Standardization. 
+Use the Pima Indians diabetes dataset which is often used for binary classification problem. 
+Do the following using suitable python library using this dataset. 
+
+Note: use only the feature information of this dataset (exclude the label/class information). 
+    1. Since the attributes present in this dataset is of different scales, first rescale 
+         the attributes of this dataset so that all the attributes have the same scale. Use the scale 0 to 1 for the feature information of this dataset. 
+    2. The next is to binarize the data. Transform the whole data set using a binary threshold. 
+         All values above the threshold are marked 1 and all equal to or below are marked as 0. 
+         Use the threshold value 0.0 for all the features of this dataset. Print the head of the transformed data. 
+    3. The last step is to standardize the data, which is essential for analysing data distribution. 
+         Standardize the data associated with this dataset to a standard Gaussian distribution with a mean of 0 and standard deviation of 1. 
+(Hint. Use the scikit-learn library) 
+
+Q2.  Perform the following cleaning operations on the spam.csv dataset.
+    1.Remove the punctuations (e.g., !, #, @ etc.). Make use of apply() function or use the regular expression to do the same. 
+    2.Remove the stopwords following the library available in nltk.
